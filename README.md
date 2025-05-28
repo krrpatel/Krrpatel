@@ -35,7 +35,7 @@
   </a>
 </p>
 
-![snake gif](https://github.com/krrpatel/krrpatel/blob/output/github-snake-dark.svg)
+![snake gif](https://github.com/krrpatel/Krrpatel/blob/main/snake.svg)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=krrpatel&theme=radical&no-frame=false&no-bg=true&margin-w=4)
