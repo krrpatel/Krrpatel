@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Welcome to Kazuha's Coding Universe! 🌍</h1>  
+<h1 align="center">🚀 Welcome to Krrish's Coding Universe! 🌍</h1>  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FF5733&center=true&vCenter=true&width=435&lines=Testnet+Dev+%7C+Reverse+Engineer+%7C+Automation+Wizard;Debugging+in+Multiple+Languages+%F0%9F%94%96;Automating+Things+That+Don't+Need+Automation+%E2%9C%A8;Making+Scripts+Run+Smoother+Than+Life+Decisions+%F0%9F%98%86" alt="Typing SVG" />
 </p>
